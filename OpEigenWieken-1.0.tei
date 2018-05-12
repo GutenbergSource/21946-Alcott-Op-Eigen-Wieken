@@ -8,13 +8,14 @@
 <fileDesc>
 <titleStmt>
 <title>Op Eigen Wieken</title>
-<author key="Alcott, Louise May" ref="https://viaf.org/viaf/29528997">Louise May Alcott (1832&ndash;1888)</author>
-<respStmt><resp>Translation</resp> <name key="Elberts, Gerardina Wilhelmina" ref="https://viaf.org/viaf/284369797">Gerardina Wilhelmina Elberts (1868&ndash;1945)</name></respStmt>
-<respStmt><resp>Transcription</resp> <name>Jeroen Hellingman</name></respStmt>
+<author key="Alcott, Louise May" ref="https://viaf.org/viaf/29528997/">Louise May Alcott (1832&ndash;1888)</author>
+<respStmt><resp>Translation</resp> <name key="Elberts, Gerardina Wilhelmina" ref="https://viaf.org/viaf/284369797/">Gerardina Wilhelmina Elberts (1868&ndash;1945)</name></respStmt>
+<respStmt><resp>Transcription</resp> <name key="Hellingman, Jeroen">Jeroen Hellingman</name></respStmt>
 </titleStmt>
 <publicationStmt>
 <publisher>Project Gutenberg</publisher>
 <pubPlace>Urbana, Illinois, USA.</pubPlace>
+<idno type=PGSrc>21946-Alcott-Op-Eigen-Wieken</idno>
 <idno type=epub-id>urn:uuid:ede496a5-090b-4008-9b87-4b42b6e8f976</idno>
 <idno type=PGclearance>20050315123853alcott</idno>
 <idno type=PGDPProjectId>projectID44c00329e558c</idno>
@@ -23,11 +24,11 @@
 <availability lang=nl>
 <p>&availability.nl;
 
-<p>Dit eBoek is geproduceerd door Jeroen Hellingman en het on-line gedistribueerd correctieteam op <xref url="http://www.pgdp.net/">www.pgdp.net</xref>.
+<p>Dit eBoek is geproduceerd door Jeroen Hellingman en het on-line gedistribueerd correctieteam op <xref url="https://www.pgdp.net/">www.pgdp.net</xref>.
 
 <p lang=en>This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at <xref url="https://www.gutenberg.org/">www.gutenberg.org</xref>.
 
-<p lang=en>This eBook is produced by Jeroen Hellingman and the Online Distributed Proofreading Team at <xref url="http://www.pgdp.net/">www.pgdp.net</xref>.
+<p lang=en>This eBook is produced by Jeroen Hellingman and the Online Distributed Proofreading Team at <xref url="https://www.pgdp.net/">www.pgdp.net</xref>.
 
 </availability>
 </publicationStmt>
@@ -52,7 +53,6 @@
         <language id=en>Engels</language>
         <language id=de>Duits</language>
         <language id=fr>Frans</language>
-        <language id=la>Latijn</language>
         <language id=it>Italiaans</language>
     </langUsage>
     <textClass>
@@ -128,13 +128,13 @@
 <lb>ROTTERDAM&mdash;D. BOLLE
 </docImprint>
 </titlePage>
-</front>
 
 
 
 <pb n=4 id=pb4>
+</front>
 <body>
-<div1 n=I id=ch1>
+<div1 n=I id=ch1 type=Chapter>
 <head type=label>HOOFDSTUK I.</head>
 
 <head>EEN PRAATJE.</head>
@@ -1384,7 +1384,7 @@
 
 
 
-<div1 n=IX id=ch9>
+<div1 n=IX id=ch9 type=Chapter>
 <head type=label>HOOFDSTUK IX.</head>
 
 <head>VERBORGEN LEED.</head>
@@ -1636,7 +1636,7 @@
 <head>JO&apos;S DAGBOEK.</head>
 
 
-<q rend=block><text><body><div1><p rend="text-align(right)"><hi rend=sc>New-York, Nov.</hi>
+<q rend=block><text><body><div1 type=Letter><p rend="text-align(right)"><hi rend=sc>New-York, Nov.</hi>
 
 <p><hi>Lieve Moeder en Betsy</hi>.
 
@@ -1833,7 +1833,7 @@
 
 
 
-<div1 n=XI id=ch11>
+<div1 n=XI id=ch11 type=Chapter>
 <head type=label>HOOFDSTUK XI.</head>
 
 <head>EEN VRIEND.</head>
@@ -2992,7 +2992,7 @@
 
 <p>Steeds de uwe
 
-<p>TELEMACHUS. </q>
+<p>TELEMACHUS.</q>
 
 <milestone unit=tb>
 
@@ -4243,99 +4243,99 @@
 
 <p>HOOFDSTUK I.
 
-<p><hi rend=sc><ref target=ch1>Een Praatje</ref></hi>      1
+<p><hi rend=sc><ref target=ch1>Een Praatje</ref></hi>      <ab type=tocPageNum>1</ab>
 
 <p>HOOFDSTUK II.
 
-<p><hi rend=sc><ref target=ch2>Het eerste Huwelijk</ref></hi>       12
+<p><hi rend=sc><ref target=ch2>Het eerste Huwelijk</ref></hi>       <ab type=tocPageNum>12</ab>
 
 <p>HOOFDSTUK III.
 
-<p><hi rend=sc><ref target=ch3>Artistieke Proefnemingen</ref></hi>       17
+<p><hi rend=sc><ref target=ch3>Artistieke Proefnemingen</ref></hi>       <ab type=tocPageNum>17</ab>
 
 <p>HOOFDSTUK IV.
 
-<p><hi rend=sc><ref target=ch4>Letterkundige Ondervindingen</ref></hi>       27
+<p><hi rend=sc><ref target=ch4>Letterkundige Ondervindingen</ref></hi>       <ab type=tocPageNum>27</ab>
 
 <p>HOOFDSTUK V.
 
-<p><hi rend=sc><ref target=ch5>Huiselijke Ondervindingen</ref></hi>       34
+<p><hi rend=sc><ref target=ch5>Huiselijke Ondervindingen</ref></hi>       <ab type=tocPageNum>34</ab>
 
 <p>HOOFDSTUK VI.
 
-<p><hi rend=sc><ref target=ch6>Visites maken</ref></hi>       48
+<p><hi rend=sc><ref target=ch6>Visites maken</ref></hi>       <ab type=tocPageNum>48</ab>
 
 <p>HOOFDSTUK VII.
 
-<p><hi rend=sc><ref target=ch7>Gevolgen</ref></hi>       59
+<p><hi rend=sc><ref target=ch7>Gevolgen</ref></hi>       <ab type=tocPageNum>59</ab>
 
 <p>HOOFDSTUK VIII.
 
-<p><hi rend=sc><ref target=ch8>Onze buitenlandsche Correspondente</ref></hi>      69
+<p><hi rend=sc><ref target=ch8>Onze buitenlandsche Correspondente</ref></hi>      <ab type=tocPageNum>69</ab>
 
 <p>HOOFDSTUK IX.
 
-<p><hi rend=sc><ref target=ch9>Verborgen Leed</ref></hi>       78
+<p><hi rend=sc><ref target=ch9>Verborgen Leed</ref></hi>       <ab type=tocPageNum>78</ab>
 
 <p>HOOFDSTUK X.
 
-<p><hi rend=sc><ref target=ch10>Jo&apos;s Dagboek</ref></hi>       89
+<p><hi rend=sc><ref target=ch10>Jo&apos;s Dagboek</ref></hi>       <ab type=tocPageNum>89</ab>
 
 <p>HOOFDSTUK XI.
 
-<p><hi rend=sc><ref target=ch11>Een Vriend</ref></hi>       100
+<p><hi rend=sc><ref target=ch11>Een Vriend</ref></hi>       <ab type=tocPageNum>100</ab>
 
 <p>HOOFDSTUK XII.
 
-<p><hi rend=sc><ref target=ch12>Harteleed</ref></hi>      114
+<p><hi rend=sc><ref target=ch12>Harteleed</ref></hi>      <ab type=tocPageNum>114</ab>
 
 <p>HOOFDSTUK XIII.
 
-<p><hi rend=sc><ref target=ch13>Betsy&apos;s Geheim</ref></hi>       123
+<p><hi rend=sc><ref target=ch13>Betsy&apos;s Geheim</ref></hi>       <ab type=tocPageNum>123</ab>
 
 <pb n=237 id=pb237><p>HOOFDSTUK XIV.
 
-<p><hi rend=sc><ref target=ch14>Nieuwe Indrukken</ref></hi>       128
+<p><hi rend=sc><ref target=ch14>Nieuwe Indrukken</ref></hi>       <ab type=tocPageNum>128</ab>
 
 <p>HOOFDSTUK XV.
 
-<p><hi rend=sc><ref target=ch15>Op zij gezet</ref></hi>       139
+<p><hi rend=sc><ref target=ch15>Op zij gezet</ref></hi>       <ab type=tocPageNum>139</ab>
 
 <p>HOOFDSTUK XVI.
 
-<p><hi rend=sc><ref target=ch16>Luie Laurence</ref></hi>       150
+<p><hi rend=sc><ref target=ch16>Luie Laurence</ref></hi>       <ab type=tocPageNum>150</ab>
 
 <p>HOOFDSTUK XVII.
 
-<p><hi rend=sc><ref target=ch17>De Vallei der Schaduwen des Doods</ref></hi>      163
+<p><hi rend=sc><ref target=ch17>De Vallei der Schaduwen des Doods</ref></hi>      <ab type=tocPageNum>163</ab>
 
 <p>HOOFDSTUK XVIII.
 
-<p><hi rend=sc><ref target=ch18>Laurie zoekt te vergeten</ref></hi>        168
+<p><hi rend=sc><ref target=ch18>Laurie zoekt te vergeten</ref></hi>        <ab type=tocPageNum>168</ab>
 
 <p>HOOFDSTUK XIX.
 
-<p><hi rend=sc><ref target=ch19>Alleen</ref></hi>       180
+<p><hi rend=sc><ref target=ch19>Alleen</ref></hi>       <ab type=tocPageNum>180</ab>
 
 <p>HOOFDSTUK XX.
 
-<p><hi rend=sc><ref target=ch20>Verrassingen</ref></hi>       187
+<p><hi rend=sc><ref target=ch20>Verrassingen</ref></hi>       <ab type=tocPageNum>187</ab>
 
 <p>HOOFDSTUK XXI.
 
-<p><hi rend=sc><ref target=ch21>Mijnheer en Mevrouw</ref></hi>       201
+<p><hi rend=sc><ref target=ch21>Mijnheer en Mevrouw</ref></hi>       <ab type=tocPageNum>201</ab>
 
 <p>HOOFDSTUK XXII.
 
-<p><hi rend=sc><ref target=ch22>Daisy en Demi</ref></hi>       205
+<p><hi rend=sc><ref target=ch22>Daisy en Demi</ref></hi>       <ab type=tocPageNum>205</ab>
 
 <p>HOOFDSTUK XXIII.
 
-<p><hi rend=sc><ref target=ch23>Onder de Parapluie</ref></hi>       211
+<p><hi rend=sc><ref target=ch23>Onder de Parapluie</ref></hi>       <ab type=tocPageNum>211</ab>
 
 <p>HOOFDSTUK XXIV.
 
-<p><hi rend=sc><ref target=ch24>De Oogst</ref></hi>       223
+<p><hi rend=sc><ref target=ch24>De Oogst</ref></hi>       <ab type=tocPageNum>223</ab>
 
 
 
@@ -4352,7 +4352,7 @@
 
 
 <pb n=238 id=pb238>
-<div1 id=ads type=Ads>
+<div1 id=ads type=Advertisements>
 
 <head>UITGAVEN VAN FIRMA D. BOLLE TE ROTTERDAM</head>
 
